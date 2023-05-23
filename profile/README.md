@@ -2,8 +2,6 @@
 
 # NoteHub
 
-1. What are we?
-
-- We are an app where you can create, store, share notes and more! (more info coming soon)
+Empower Your Notes, Unleash Your Ideas! NoteHub is an app where you can store, share, and manage notes and also collaborate with people! Currently Under Developement, more info soon!
 
 
