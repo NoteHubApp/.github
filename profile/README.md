@@ -1,6 +1,6 @@
-# NoteHub
+![notehub_banner_github](https://github.com/NoteHubApp/.github/assets/92243459/4f1aba66-1615-4cc8-8547-2c5519399217)
 
-![notehub_banner](https://github.com/NoteHubApp/.github/assets/92243459/ce8fa726-5e44-4df4-97f3-11d08a0a6e07)
+# NoteHub
 
 NoteHub is an app where you can store, share, and manage notes and also collaborate with people. Currently Under Developement, more info soon!
 
