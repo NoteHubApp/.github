@@ -2,6 +2,6 @@
 
 ## NoteHub
 
-NoteHub is an app where you can store, share, and manage notes and also collaborate with people. Currently Under Developement, more info soon!
+NoteHub is an app where you can store, share, and manage notes and also collaborate with people. Currently Under Developement, more info soon! Feel free join our [Discord Server](https://discord.com/invite/TkrXc8QnZb) for updates and support.
 
 
