@@ -2,6 +2,6 @@
 
 ## NoteHub
 
-NoteHub is working to building the future of productivity and collaboration. Currently Under Developement, more info soon! Feel free join our [Discord Server](https://discord.com/invite/TkrXc8QnZb) for updates and support.
+NoteHub is your one-step solution for sharing, colaborating, and managing your notes. Join our [Discord Server](https://discord.com/invite/TkrXc8QnZb) for updates and support.
 
 
